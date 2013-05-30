@@ -1,0 +1,4 @@
+sqg
+===
+
+Sbopkg queuefile generator
