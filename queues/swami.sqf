@@ -1,0 +1,3 @@
+libinstpatch
+libgnomecanvas
+swami

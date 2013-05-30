@@ -1,0 +1,3 @@
+yajl
+fltk
+oyranos

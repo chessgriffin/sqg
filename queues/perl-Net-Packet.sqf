@@ -1,0 +1,14 @@
+perl-Socket6
+perl-IO-Interface
+perl-Net-Pcap
+perl-Class-Gomor
+perl-Net-Write
+libdnet
+perl-Net-Libdnet
+perl-Net-IPv6Addr
+perl-Net-IPv4Addr
+perl-Sub-Uplevel
+perl-Test-Exception
+perl-Carp-Clan
+perl-Bit-Vector
+perl-Net-Packet

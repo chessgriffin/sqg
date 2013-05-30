@@ -1,0 +1,2 @@
+libgcal
+akonadi-googledata

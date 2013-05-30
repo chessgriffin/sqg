@@ -1,0 +1,3 @@
+speex
+json-c
+pulseaudio

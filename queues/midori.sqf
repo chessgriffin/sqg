@@ -1,0 +1,4 @@
+webkitgtk
+vala
+libunique
+midori

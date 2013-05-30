@@ -1,0 +1,3 @@
+libsigc++
+libtorrent
+rtorrent

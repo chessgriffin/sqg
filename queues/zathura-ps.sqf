@@ -1,0 +1,3 @@
+girara
+zathura
+zathura-ps

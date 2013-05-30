@@ -1,0 +1,3 @@
+libpaper
+tuxpaint
+tuxpaint-stamps

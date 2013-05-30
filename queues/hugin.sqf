@@ -1,0 +1,10 @@
+wxPython
+tclap
+libpano13
+lensfun
+exiftool
+vigra
+gsl
+libxmi
+enblend-enfuse
+hugin

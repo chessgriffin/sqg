@@ -1,0 +1,4 @@
+liblqr
+lensfun
+GraphicsMagick
+photivo

@@ -1,0 +1,4 @@
+numpy
+blas
+lapack
+scipy

@@ -1,0 +1,3 @@
+filechunkio
+distribute
+boto

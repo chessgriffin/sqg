@@ -1,0 +1,2 @@
+libetpan
+claws-mail

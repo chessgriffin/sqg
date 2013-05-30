@@ -1,0 +1,2 @@
+scons
+fuse-exfat

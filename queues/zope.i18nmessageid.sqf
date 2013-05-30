@@ -1,0 +1,2 @@
+distribute
+zope.i18nmessageid

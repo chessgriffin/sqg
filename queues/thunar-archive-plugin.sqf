@@ -1,0 +1,2 @@
+xarchiver
+thunar-archive-plugin

@@ -1,0 +1,3 @@
+pyxdg
+ibus
+ibus-pinyin

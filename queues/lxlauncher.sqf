@@ -1,0 +1,2 @@
+lxmenu-data
+lxlauncher

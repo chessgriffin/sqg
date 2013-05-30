@@ -1,0 +1,2 @@
+sword
+bibletime

@@ -1,0 +1,2 @@
+libgnomecanvas
+gdm

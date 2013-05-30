@@ -1,0 +1,23 @@
+xvidcore
+x264
+orc
+schroedinger
+recordmydesktop
+qjson
+frei0r
+libquicktime
+libdv
+lame
+# %README%: see the ffmpeg README file. 
+ffmpeg
+mlt
+gsm
+faad2
+libmp4v2
+faac
+libiec61883
+libavc1394
+dvgrab
+dvdauthor
+amrnb
+kdenlive

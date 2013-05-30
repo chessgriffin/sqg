@@ -1,0 +1,4 @@
+jdk
+xulrunner
+agg
+gnash

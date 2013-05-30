@@ -1,0 +1,9 @@
+pyxdg
+distribute
+zope.interface
+python-twisted
+python2-chardet
+pyOpenSSL
+MarkupSafe
+Mako
+deluge

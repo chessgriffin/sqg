@@ -1,0 +1,2 @@
+python-pydns
+python-pyspf

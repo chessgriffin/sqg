@@ -1,0 +1,3 @@
+pyinotify
+distribute
+ninja-ide

@@ -1,0 +1,2 @@
+libmaa
+dictd

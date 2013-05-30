@@ -1,0 +1,2 @@
+libalkimia
+kmymoney

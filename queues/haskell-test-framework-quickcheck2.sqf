@@ -1,0 +1,15 @@
+ghc
+haskell-extensible-exceptions
+haskell-text
+haskell-xml
+haskell-transformers
+haskell-mtl
+haskell-regex-base
+haskell-regex-posix
+haskell-random
+haskell-hostname
+haskell-ansi-terminal
+haskell-ansi-wl-pprint
+haskell-test-framework
+haskell-QuickCheck
+haskell-test-framework-quickcheck2

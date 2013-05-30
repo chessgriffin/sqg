@@ -1,0 +1,2 @@
+pysetuptools
+python-oauth

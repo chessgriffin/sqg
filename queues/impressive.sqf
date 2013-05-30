@@ -1,0 +1,4 @@
+smpeg
+pygame
+PyOpenGL
+impressive

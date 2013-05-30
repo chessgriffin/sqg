@@ -1,0 +1,6 @@
+libnet
+libesmtp
+clusterglue
+clusterresourceagents
+corosync
+openais

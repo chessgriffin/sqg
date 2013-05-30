@@ -1,0 +1,5 @@
+perl-extutils-pkgconfig
+perl-extutils-depends
+perl-glib
+perl-cairo
+perl-pango

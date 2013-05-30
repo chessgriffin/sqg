@@ -1,0 +1,4 @@
+libgnomecanvas
+itstool
+zenity
+metacity

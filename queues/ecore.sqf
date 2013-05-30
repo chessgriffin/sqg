@@ -1,0 +1,4 @@
+eina
+eet
+evas
+ecore

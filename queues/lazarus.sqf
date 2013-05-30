@@ -1,0 +1,3 @@
+fpc-source
+fpc
+lazarus

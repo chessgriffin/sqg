@@ -1,0 +1,3 @@
+leptonica
+tesseract
+tucan

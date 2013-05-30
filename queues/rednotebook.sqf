@@ -1,0 +1,4 @@
+webkitgtk
+pywebkitgtk
+PyYAML
+rednotebook

@@ -1,0 +1,4 @@
+proj
+geos
+gdal
+qlandkartegt

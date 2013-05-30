@@ -1,0 +1,3 @@
+jdk
+EMBOSS
+EMBASSY

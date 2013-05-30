@@ -1,0 +1,2 @@
+xerces-c
+xalan-c

@@ -1,0 +1,3 @@
+libevent
+memcached
+libmemcached

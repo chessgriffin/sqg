@@ -1,0 +1,9 @@
+perl-net-ip
+perl-digest-sha1
+perl-digest-hmac
+perl-net-dns
+perl-TimeDate
+perl-MailTools
+perl-Crypt-OpenSSL-Random
+perl-Crypt-OpenSSL-RSA
+perl-Mail-DKIM

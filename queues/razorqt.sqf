@@ -1,0 +1,2 @@
+libstatgrab
+razorqt

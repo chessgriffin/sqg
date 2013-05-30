@@ -1,0 +1,2 @@
+liblqr
+gimp-lqr-plugin

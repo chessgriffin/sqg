@@ -1,0 +1,2 @@
+jdk
+openoffice.org

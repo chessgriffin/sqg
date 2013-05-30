@@ -1,0 +1,3 @@
+gsl
+LibRaw
+luminance-hdr

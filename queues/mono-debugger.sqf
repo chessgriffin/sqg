@@ -1,0 +1,3 @@
+libgdiplus
+mono
+mono-debugger

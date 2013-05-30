@@ -1,0 +1,9 @@
+webkitgtk
+pywebkitgtk
+pytz
+six
+distribute
+python-dateutil
+numpy
+matplotlib
+sofastats

@@ -1,0 +1,3 @@
+jdk
+openbabel
+avogadro

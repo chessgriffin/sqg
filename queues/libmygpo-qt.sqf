@@ -1,0 +1,2 @@
+qjson
+libmygpo-qt

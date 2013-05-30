@@ -1,0 +1,3 @@
+wxPython
+libmimic
+emesene

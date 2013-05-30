@@ -1,0 +1,17 @@
+perl-extutils-pkgconfig
+perl-extutils-depends
+perl-glib
+ORBit2
+libbonobo
+gnome-mime-data
+gnome-vfs
+perl-gnome2-vfs
+perl-cairo
+perl-pango
+perl-gtk2
+libgnomecanvas
+perl-gnome2-canvas
+libgnome
+libbonoboui
+libgnomeui
+perl-gnome2

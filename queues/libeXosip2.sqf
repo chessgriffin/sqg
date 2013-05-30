@@ -1,0 +1,2 @@
+libosip2
+libeXosip2

@@ -1,0 +1,12 @@
+perl-net-ip
+perl-digest-sha1
+perl-digest-hmac
+perl-net-dns
+perl-NetPacket
+perl-Net-RawIP
+perl-IO-Interface
+perl-Net-Pcap
+perl-Net-LibIDN
+Net-SSLeay
+perl-IO-Socket-SSL
+sqlninja

@@ -1,0 +1,3 @@
+distribute
+mechanize
+pysmssend

@@ -1,0 +1,16 @@
+perl-TimeDate
+perl-File-Tail
+perl-yaml
+perl-YAML-Syck
+perl-Devel-Symdump
+perl-Pod-Coverage
+perl-Test-Pod-Coverage
+perl-Test-Pod
+perl-Test-Inter
+perl-Date-Manip
+perl-Sub-Uplevel
+perl-Test-Exception
+perl-Carp-Clan
+perl-Bit-Vector
+perl-Date-Calc
+swatch

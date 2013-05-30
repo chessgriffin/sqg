@@ -1,0 +1,2 @@
+libgnomecups
+libgnomeprint

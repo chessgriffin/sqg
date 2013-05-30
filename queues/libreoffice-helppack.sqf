@@ -1,0 +1,3 @@
+jdk
+libreoffice
+libreoffice-helppack

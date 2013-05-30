@@ -1,0 +1,13 @@
+speex
+json-c
+pulseaudio
+mm-common
+libsigc++
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+libglademm
+gconfmm
+paprefs

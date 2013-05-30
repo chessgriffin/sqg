@@ -1,0 +1,2 @@
+libgsasl
+libvmime-zarafa

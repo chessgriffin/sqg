@@ -1,0 +1,2 @@
+jdk
+squirrel-sql

@@ -1,0 +1,2 @@
+recordmydesktop
+gtk-recordmydesktop

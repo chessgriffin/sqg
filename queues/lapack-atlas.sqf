@@ -1,0 +1,3 @@
+blas
+atlas
+lapack-atlas

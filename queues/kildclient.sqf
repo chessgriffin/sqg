@@ -1,0 +1,2 @@
+locale-gettext
+kildclient

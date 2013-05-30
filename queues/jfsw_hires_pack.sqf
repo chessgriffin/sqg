@@ -1,0 +1,3 @@
+eawpats
+jfsw
+jfsw_hires_pack

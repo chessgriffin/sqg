@@ -1,0 +1,3 @@
+libaosd
+cdk
+licq

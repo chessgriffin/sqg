@@ -1,0 +1,3 @@
+vala
+libgee
+gksu-polkit

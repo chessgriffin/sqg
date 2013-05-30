@@ -1,0 +1,15 @@
+numpy
+blas
+lapack
+scipy
+python-magick
+numexpr
+hdf5
+Cython
+pytables
+pytz
+six
+distribute
+python-dateutil
+matplotlib
+ocropus

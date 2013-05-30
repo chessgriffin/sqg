@@ -1,0 +1,10 @@
+ghc
+haskell-bmp
+haskell-Tensor
+haskell-StateVar
+haskell-ObjectName
+haskell-OpenGLRaw
+haskell-GLURaw
+haskell-OpenGL
+haskell-GLUT
+haskell-gloss

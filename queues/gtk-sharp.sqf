@@ -1,0 +1,3 @@
+libgdiplus
+mono
+gtk-sharp

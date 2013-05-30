@@ -1,0 +1,2 @@
+jdk
+erlang-otp

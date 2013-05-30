@@ -1,0 +1,2 @@
+libmusicbrainz
+xmms-scrobbler

@@ -1,0 +1,6 @@
+wxPython
+libgnomecups
+libgnomeprint
+libgnomecanvas
+libgnomeprintui
+kicad

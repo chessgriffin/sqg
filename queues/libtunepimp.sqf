@@ -1,0 +1,3 @@
+libofa
+libmusicbrainz
+libtunepimp

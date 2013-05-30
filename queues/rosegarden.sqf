@@ -1,0 +1,11 @@
+t1utils
+potrace
+mftrace
+fontforge
+lilypond
+ladspa_sdk
+liblrdf
+liblo
+jack-audio-connection-kit
+dssi
+rosegarden

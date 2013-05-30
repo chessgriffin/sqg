@@ -1,0 +1,4 @@
+distribute
+protobuf
+ftgl
+armagetronad

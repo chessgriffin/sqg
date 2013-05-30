@@ -1,0 +1,3 @@
+fpconst
+PyXML
+SOAPpy

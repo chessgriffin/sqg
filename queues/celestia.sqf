@@ -1,0 +1,3 @@
+lua
+gtkglext
+celestia

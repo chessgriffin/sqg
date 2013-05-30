@@ -1,0 +1,2 @@
+libcryptui
+seahorse

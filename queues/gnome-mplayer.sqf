@@ -1,0 +1,2 @@
+gmtk
+gnome-mplayer

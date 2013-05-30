@@ -1,0 +1,4 @@
+libnet
+libesmtp
+clusterglue
+clusterresourceagents

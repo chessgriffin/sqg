@@ -1,0 +1,3 @@
+jdk
+xulrunner
+evolus-pencil

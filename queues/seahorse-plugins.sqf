@@ -1,0 +1,3 @@
+libcryptui
+seahorse
+seahorse-plugins

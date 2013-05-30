@@ -1,0 +1,2 @@
+kaffeine
+kaffeine-mozilla

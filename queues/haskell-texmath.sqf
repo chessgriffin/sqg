@@ -1,0 +1,9 @@
+ghc
+haskell-extensible-exceptions
+haskell-text
+haskell-xml
+haskell-syb
+haskell-transformers
+haskell-mtl
+haskell-parsec
+haskell-texmath

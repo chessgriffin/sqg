@@ -1,0 +1,2 @@
+squeak-vm
+scratch

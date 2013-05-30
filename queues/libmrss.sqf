@@ -1,0 +1,2 @@
+libnxml
+libmrss

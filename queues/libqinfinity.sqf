@@ -1,0 +1,3 @@
+libgsasl
+libinfinity
+libqinfinity

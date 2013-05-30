@@ -1,0 +1,2 @@
+lockdev
+libcec

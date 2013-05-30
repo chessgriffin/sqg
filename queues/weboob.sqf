@@ -1,0 +1,13 @@
+rtmpdump
+six
+distribute
+python-dateutil
+nose
+mechanize
+BeautifulSoup
+lxml
+pysetuptools
+html2text
+feedparser
+PyYAML
+weboob

@@ -1,0 +1,4 @@
+speex
+distribute
+protobuf
+mumble

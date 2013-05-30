@@ -1,0 +1,3 @@
+libunique
+libmpdclient
+ario

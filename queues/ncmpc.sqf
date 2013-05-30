@@ -1,0 +1,2 @@
+libmpdclient
+ncmpc

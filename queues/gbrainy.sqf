@@ -1,0 +1,14 @@
+libgdiplus
+mono
+gtk-sharp
+mono-addins
+libgnomecanvas
+ORBit2
+libbonobo
+gnome-mime-data
+gnome-vfs
+libgnome
+libbonoboui
+libgnomeui
+gnome-sharp
+gbrainy

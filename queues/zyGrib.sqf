@@ -1,0 +1,4 @@
+libnova
+proj
+qwt
+zyGrib

@@ -1,0 +1,3 @@
+webcore-fonts
+fontforge
+wine

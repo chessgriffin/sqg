@@ -1,0 +1,3 @@
+rlog
+encfs
+cryptkeeper

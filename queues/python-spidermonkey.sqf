@@ -1,0 +1,3 @@
+distribute
+nose
+python-spidermonkey

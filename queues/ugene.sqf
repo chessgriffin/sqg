@@ -1,0 +1,10 @@
+t_coffee
+ncbi-blast-plus
+ncbi-blast
+mrbayes
+mafft
+clustalw
+cap3
+bwa
+bowtie
+ugene

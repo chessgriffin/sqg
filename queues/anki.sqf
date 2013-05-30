@@ -1,0 +1,10 @@
+simplejson
+pytz
+six
+distribute
+python-dateutil
+numpy
+matplotlib
+SQLAlchemy
+BeautifulSoup
+anki

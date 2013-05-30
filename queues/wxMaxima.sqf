@@ -1,0 +1,3 @@
+wxPython
+maxima
+wxMaxima

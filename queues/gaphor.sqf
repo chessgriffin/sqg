@@ -1,0 +1,11 @@
+distribute
+simplegeneric
+setuptools-git
+nose
+decorator
+gaphas
+zope.interface
+zope.event
+zope.component
+etk.docking
+gaphor

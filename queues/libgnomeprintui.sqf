@@ -1,0 +1,4 @@
+libgnomecups
+libgnomeprint
+libgnomecanvas
+libgnomeprintui

@@ -1,0 +1,14 @@
+wxPython
+lua
+pexpect
+pycrypto
+paramiko
+ctemplate
+mm-common
+libsigc++
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+mysql-workbench-gpl

@@ -1,0 +1,3 @@
+openbox
+lxappearance
+lxappearance-obconf

@@ -1,0 +1,3 @@
+libnxml
+libmpd
+gimmix

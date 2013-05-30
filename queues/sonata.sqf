@@ -1,0 +1,2 @@
+python-mpd
+sonata

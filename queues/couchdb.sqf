@@ -1,0 +1,3 @@
+jdk
+erlang-otp
+couchdb

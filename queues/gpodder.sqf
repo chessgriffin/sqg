@@ -1,0 +1,4 @@
+mygpoclient
+distribute
+feedparser
+gpodder

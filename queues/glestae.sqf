@@ -1,0 +1,4 @@
+physfs
+lua
+OpenAL
+glestae

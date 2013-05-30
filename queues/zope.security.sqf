@@ -1,0 +1,10 @@
+distribute
+zope.interface
+zope.event
+zope.component
+zope.proxy
+zope.schema
+zope.location
+zope.i18nmessageid
+zope.configuration
+zope.security

@@ -1,0 +1,3 @@
+pysetuptools
+python-suds
+pycontrol

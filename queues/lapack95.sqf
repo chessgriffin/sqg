@@ -1,0 +1,3 @@
+blas
+lapack
+lapack95

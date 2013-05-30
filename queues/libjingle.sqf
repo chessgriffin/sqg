@@ -1,0 +1,4 @@
+speex
+ortp
+ilbc
+libjingle

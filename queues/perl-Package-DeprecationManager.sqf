@@ -1,0 +1,11 @@
+perl-Test-Requires
+perl-Try-Tiny
+perl-Test-Fatal
+perl-Devel-Symdump
+perl-Pod-Coverage
+perl-Test-Pod-Coverage
+perl-Test-Pod
+perl-Sub-Install
+perl-Params-Util
+perl-List-MoreUtils
+perl-Package-DeprecationManager

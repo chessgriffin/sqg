@@ -1,0 +1,3 @@
+gtksourceview
+pygtksourceview
+gedit

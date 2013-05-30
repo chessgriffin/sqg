@@ -1,0 +1,4 @@
+pysetuptools
+darcsver
+cryptopp
+pycryptopp
