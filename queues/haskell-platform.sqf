@@ -1,3 +1,0 @@
-ghc
-hscolour
-haskell-platform

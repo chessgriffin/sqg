@@ -1,2 +1,3 @@
+json-c
 webkitgtk
 dwb

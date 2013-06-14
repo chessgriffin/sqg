@@ -1,7 +1,8 @@
+# %README%: see the grass README file. 
 wxPython
-numpy
 proj
+numpy
 geos
+# %README%: see the gdal README file. 
 gdal
-blas
 grass

@@ -1,0 +1,2 @@
+gtkglext
+libg3d
