@@ -1,2 +1,0 @@
-pyinotify
-git-cola
