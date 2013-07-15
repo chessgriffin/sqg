@@ -1,3 +1,3 @@
 pyinotify
-distribute
+pysetuptools
 ninja-ide

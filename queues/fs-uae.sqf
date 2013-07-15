@@ -1,6 +1,6 @@
 smpeg
 pygame
-distribute
+pysetuptools
 wxPython
 OpenAL
 fs-uae

@@ -1,3 +1,3 @@
-distribute
+pysetuptools
 nose
 python-spidermonkey

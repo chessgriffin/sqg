@@ -1,3 +1,3 @@
-distribute
+pysetuptools
 FormEncode
 SQLObject

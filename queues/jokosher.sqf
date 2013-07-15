@@ -1,5 +1,5 @@
 pyxdg
 gst-python
 gnonlin
-distribute
+pysetuptools
 jokosher

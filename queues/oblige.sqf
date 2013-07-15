@@ -1,4 +1,2 @@
-lua
-fltk
-glbsp
+fltk13
 oblige

@@ -1,0 +1,2 @@
+pysetuptools
+feedgenerator

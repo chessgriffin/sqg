@@ -1,7 +1,7 @@
 simplejson
 pytz
 six
-distribute
+pysetuptools
 python-dateutil
 numpy
 matplotlib

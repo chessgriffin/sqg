@@ -1,6 +1,6 @@
 python-elementtree
 six
-distribute
+pysetuptools
 python-dateutil
 gdata
 python-gcalcli

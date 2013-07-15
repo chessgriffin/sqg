@@ -10,7 +10,7 @@ pychart
 reportlab
 PyXML
 six
-distribute
+pysetuptools
 python-dateutil
 pyicu
 vobject

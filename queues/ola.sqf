@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 protobuf
 cppunit
 ola

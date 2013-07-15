@@ -1,4 +1,4 @@
 libsynce
 librapi2
-distribute
+pysetuptools
 synce-kpm

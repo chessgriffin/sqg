@@ -2,5 +2,5 @@ libsynce
 librapi2
 libmimedir
 librra
-distribute
+pysetuptools
 sync-engine

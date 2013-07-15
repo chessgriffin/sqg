@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 zope.interface
 goocanvas
 pygoocanvas

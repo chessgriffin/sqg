@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 cssselect
 psutil
 netifaces

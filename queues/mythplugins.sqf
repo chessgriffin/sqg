@@ -58,7 +58,6 @@ perl-file-listing
 libwww-perl
 BeautifulSoup
 lxml
-distribute
 MySQL-python
 lame
 libmp4v2

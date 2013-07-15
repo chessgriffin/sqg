@@ -1,12 +1,11 @@
 rtmpdump
 six
-distribute
+pysetuptools
 python-dateutil
 nose
 mechanize
 BeautifulSoup
 lxml
-pysetuptools
 html2text
 feedparser
 PyYAML

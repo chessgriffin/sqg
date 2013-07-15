@@ -21,7 +21,7 @@ libwww-perl
 urlgrabber
 BeautifulSoup
 lxml
-distribute
+pysetuptools
 MySQL-python
 lame
 libmp4v2

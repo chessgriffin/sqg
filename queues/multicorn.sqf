@@ -1,3 +1,3 @@
 postgresql
-distribute
+pysetuptools
 multicorn

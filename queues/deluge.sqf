@@ -1,5 +1,5 @@
 pyxdg
-distribute
+pysetuptools
 zope.interface
 python-twisted
 python2-chardet

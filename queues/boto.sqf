@@ -1,3 +1,3 @@
 filechunkio
-distribute
+pysetuptools
 boto

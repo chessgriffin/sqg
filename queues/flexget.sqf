@@ -1,7 +1,6 @@
 pysetuptools
 pynzb
 progressbar
-distribute
 nose
 html5lib
 feedparser

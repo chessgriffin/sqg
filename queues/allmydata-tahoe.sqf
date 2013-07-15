@@ -10,7 +10,6 @@ pycrypto
 pyasn1
 pyOpenSSL
 mock
-distribute
 zope.interface
 python-twisted
 foolscap

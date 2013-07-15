@@ -1,3 +1,3 @@
 six
-distribute
+pysetuptools
 python-dateutil

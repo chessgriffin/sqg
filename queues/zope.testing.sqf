@@ -1,2 +1,2 @@
-distribute
+pysetuptools
 zope.testing

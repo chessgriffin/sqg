@@ -9,7 +9,7 @@ Cython
 pytables
 pytz
 six
-distribute
+pysetuptools
 python-dateutil
 matplotlib
 ocropus

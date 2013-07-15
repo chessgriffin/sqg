@@ -1,5 +1,5 @@
 python-uuid
-distribute
+pysetuptools
 zope.interface
 python-twisted
 python-stomper

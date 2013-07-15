@@ -1,4 +1,4 @@
 filechunkio
-distribute
+pysetuptools
 boto
 euca2ools

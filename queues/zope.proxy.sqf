@@ -1,3 +1,3 @@
-distribute
+pysetuptools
 zope.interface
 zope.proxy

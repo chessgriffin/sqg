@@ -1,0 +1,3 @@
+dmenu
+webkitgtk
+surf

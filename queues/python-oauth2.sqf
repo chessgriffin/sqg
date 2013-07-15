@@ -1,3 +1,3 @@
 urlgrabber
-distribute
+pysetuptools
 python-oauth2

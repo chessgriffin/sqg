@@ -1,3 +1,3 @@
 python2-chardet
-distribute
+pysetuptools
 mktoc

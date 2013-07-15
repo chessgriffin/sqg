@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 simplegeneric
 setuptools-git
 nose

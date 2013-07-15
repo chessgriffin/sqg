@@ -14,7 +14,7 @@ perl-Readonly
 perl-Devel-StackTrace
 perl-Class-Data-Inheritable
 perl-Exception-Class
-perl-Data-Dump
+perl-data-dump
 perl-Test-Trap
 perl-tk
 perl-Devel-Symdump

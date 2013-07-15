@@ -1,5 +1,5 @@
 six
-distribute
+pysetuptools
 python-dateutil
 pyicu
 vobject

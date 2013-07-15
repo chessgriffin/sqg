@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 tweepy
 urlgrabber
 python-oauth2

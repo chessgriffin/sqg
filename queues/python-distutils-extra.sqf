@@ -1,2 +1,2 @@
-distribute
+pysetuptools
 python-distutils-extra

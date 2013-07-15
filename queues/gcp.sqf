@@ -1,3 +1,3 @@
 progressbar
-distribute
+pysetuptools
 gcp

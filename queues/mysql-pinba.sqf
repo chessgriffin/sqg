@@ -1,5 +1,5 @@
 judy
 libevent
-distribute
+pysetuptools
 protobuf
 mysql-pinba

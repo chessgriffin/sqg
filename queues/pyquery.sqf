@@ -1,5 +1,5 @@
 BeautifulSoup
 lxml
-distribute
+pysetuptools
 cssselect
 pyquery

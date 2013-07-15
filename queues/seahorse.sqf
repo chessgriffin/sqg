@@ -1,2 +1,3 @@
-libcryptui
+libsecret
+itstool
 seahorse

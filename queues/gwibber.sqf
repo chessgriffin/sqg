@@ -2,7 +2,7 @@ simplejson
 pyxdg
 webkitgtk
 pywebkitgtk
-distribute
+pysetuptools
 python-distutils-extra
 ORBit2
 pyorbit

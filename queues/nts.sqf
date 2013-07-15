@@ -1,5 +1,5 @@
 wxPython
 six
-distribute
+pysetuptools
 python-dateutil
 nts

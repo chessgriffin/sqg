@@ -1,3 +1,3 @@
-distribute
+pysetuptools
 protobuf
 murmur

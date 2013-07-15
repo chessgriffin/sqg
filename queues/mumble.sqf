@@ -1,5 +1,5 @@
 speex
 opus
-distribute
+pysetuptools
 protobuf
 mumble

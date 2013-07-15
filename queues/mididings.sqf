@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 decorator
 liblo
 pyliblo

@@ -1,0 +1,3 @@
+libunique
+gtksourceview
+KKEdit

@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 genshi
 MySQL-python
 trac

@@ -1,4 +1,4 @@
 mygpoclient
-distribute
+pysetuptools
 feedparser
 gpodder

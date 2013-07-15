@@ -1,4 +1,4 @@
-distribute
+pysetuptools
 zope.interface
 zope.proxy
 zope.event

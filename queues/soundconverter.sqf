@@ -1,14 +1,4 @@
 twolame
-mm-common
-libsigc++
-glibmm
-libxml++
-cairomm
-pangomm
-atkmm
-gtkmm
-gstreamermm
-gnonlin
 x264
 lame
 # %README%: see the ffmpeg README file. 
@@ -20,12 +10,12 @@ aften
 a52dec
 PyXML
 gst-python
+gnome-mime-data
 gnome-media
 gnome-common
 libgnomecanvas
 ORBit2
 libbonobo
-gnome-mime-data
 gnome-vfs
 libgnome
 libbonoboui
