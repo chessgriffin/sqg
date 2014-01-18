@@ -1,2 +1,0 @@
-libsigc++
-libpar2

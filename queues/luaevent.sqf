@@ -1,3 +1,0 @@
-libevent
-lua
-luaevent

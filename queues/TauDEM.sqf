@@ -1,2 +1,0 @@
-openmpi
-TauDEM

@@ -1,4 +1,0 @@
-apiextractor
-generatorrunner
-shiboken
-pyside

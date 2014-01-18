@@ -1,3 +1,0 @@
-libmpdclient
-libgadu
-kadu

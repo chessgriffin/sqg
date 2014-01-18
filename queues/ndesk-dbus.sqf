@@ -1,3 +1,0 @@
-libgdiplus
-mono
-ndesk-dbus

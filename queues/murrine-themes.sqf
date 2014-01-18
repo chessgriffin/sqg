@@ -1,2 +1,0 @@
-murrine
-murrine-themes

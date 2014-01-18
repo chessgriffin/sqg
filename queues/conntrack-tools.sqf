@@ -1,4 +1,0 @@
-libnfnetlink
-libmnl
-libnetfilter_conntrack
-conntrack-tools

@@ -1,2 +1,0 @@
-apiextractor
-generatorrunner

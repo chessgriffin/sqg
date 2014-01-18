@@ -1,3 +1,0 @@
-lensfun
-flickcurl
-rawstudio

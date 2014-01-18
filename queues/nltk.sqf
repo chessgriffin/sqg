@@ -1,3 +1,0 @@
-PyYAML
-jdk
-nltk

@@ -1,2 +1,0 @@
-postgresql
-perl-DBD-Pg

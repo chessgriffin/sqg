@@ -1,2 +1,0 @@
-eventlog
-syslog-ng

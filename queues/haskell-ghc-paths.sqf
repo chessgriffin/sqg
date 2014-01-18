@@ -1,2 +1,0 @@
-ghc
-haskell-ghc-paths

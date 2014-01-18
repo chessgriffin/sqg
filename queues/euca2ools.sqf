@@ -1,4 +1,0 @@
-filechunkio
-pysetuptools
-boto
-euca2ools

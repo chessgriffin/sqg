@@ -1,2 +1,0 @@
-qoauth
-qtwitter

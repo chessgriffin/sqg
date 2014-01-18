@@ -1,3 +1,0 @@
-smpeg
-pygame
-lightyears

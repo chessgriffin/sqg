@@ -1,2 +1,0 @@
-SDL_Pango
-tuxtype2

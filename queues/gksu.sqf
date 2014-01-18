@@ -1,3 +1,0 @@
-libgtop
-libgksu
-gksu

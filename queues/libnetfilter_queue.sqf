@@ -1,3 +1,0 @@
-libnfnetlink
-libmnl
-libnetfilter_queue

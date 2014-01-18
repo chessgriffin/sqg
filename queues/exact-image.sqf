@@ -1,2 +1,0 @@
-agg
-exact-image

@@ -1,3 +1,0 @@
-libgsasl
-udns
-jabberd2

@@ -1,2 +1,0 @@
-shorewall-core
-shorewall

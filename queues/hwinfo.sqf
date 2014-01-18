@@ -1,2 +1,0 @@
-libx86emu
-hwinfo

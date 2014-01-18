@@ -1,3 +1,0 @@
-pypoppler
-pyPdf
-pdfshuffler

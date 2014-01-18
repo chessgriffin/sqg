@@ -1,2 +1,0 @@
-libgsasl
-libinfinity

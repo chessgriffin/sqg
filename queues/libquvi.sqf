@@ -1,3 +1,0 @@
-lua
-libquvi-scripts
-libquvi

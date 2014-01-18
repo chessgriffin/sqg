@@ -1,2 +1,0 @@
-rlwrap
-mathomatic

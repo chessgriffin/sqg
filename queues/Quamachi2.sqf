@@ -1,2 +1,0 @@
-hamachi
-Quamachi2

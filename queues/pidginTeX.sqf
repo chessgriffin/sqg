@@ -1,2 +1,0 @@
-mathtex
-pidginTeX

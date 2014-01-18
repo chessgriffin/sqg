@@ -1,4 +1,0 @@
-plib
-OpenAL
-freealut
-torcs

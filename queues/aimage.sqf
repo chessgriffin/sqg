@@ -1,2 +1,0 @@
-afflib
-aimage

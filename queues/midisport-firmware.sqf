@@ -1,2 +1,0 @@
-fxload
-midisport-firmware

@@ -1,2 +1,0 @@
-goffice
-gnumeric

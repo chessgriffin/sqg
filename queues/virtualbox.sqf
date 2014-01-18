@@ -1,3 +1,0 @@
-virtualbox-kernel
-acpica
-virtualbox

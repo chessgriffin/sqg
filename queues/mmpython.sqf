@@ -1,3 +1,0 @@
-lsdvd
-PyXML
-mmpython

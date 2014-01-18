@@ -1,3 +1,0 @@
-libnxml
-libmpd
-gimmix

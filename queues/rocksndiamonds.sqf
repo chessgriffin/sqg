@@ -1,2 +1,0 @@
-smpeg
-rocksndiamonds

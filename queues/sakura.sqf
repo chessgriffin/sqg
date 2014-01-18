@@ -1,2 +1,0 @@
-vte3
-sakura

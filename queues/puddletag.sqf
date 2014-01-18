@@ -1,4 +1,0 @@
-pyparsing
-mutagen
-configobj
-puddletag

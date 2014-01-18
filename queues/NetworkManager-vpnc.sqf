@@ -1,2 +1,0 @@
-vpnc
-NetworkManager-vpnc

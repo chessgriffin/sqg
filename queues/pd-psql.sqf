@@ -1,3 +1,0 @@
-postgresql
-pd
-pd-psql

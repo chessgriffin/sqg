@@ -1,2 +1,0 @@
-libdnet
-daq

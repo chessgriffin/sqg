@@ -1,3 +1,0 @@
-usbmuxd
-libimobiledevice
-ifuse

@@ -1,3 +1,0 @@
-libgnomecanvas
-itstool
-zenity

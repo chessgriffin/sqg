@@ -1,3 +1,0 @@
-libreplaygain
-libcuefile
-musepack-tools

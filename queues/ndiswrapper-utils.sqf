@@ -1,2 +1,0 @@
-ndiswrapper-kernel
-ndiswrapper-utils

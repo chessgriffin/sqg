@@ -1,2 +1,0 @@
-libopenraw
-raw-thumbnailer

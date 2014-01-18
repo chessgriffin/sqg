@@ -1,4 +1,0 @@
-jdk
-xulrunner
-agg
-gnash

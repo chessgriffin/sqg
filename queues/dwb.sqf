@@ -1,3 +1,0 @@
-json-c
-webkitgtk
-dwb

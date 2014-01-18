@@ -1,3 +1,0 @@
-scons
-physfs
-pingus

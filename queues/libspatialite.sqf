@@ -1,4 +1,0 @@
-proj
-geos
-freexl
-libspatialite

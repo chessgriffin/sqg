@@ -1,3 +1,0 @@
-nextaw
-mowitz
-siag

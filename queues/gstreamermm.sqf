@@ -1,9 +1,0 @@
-mm-common
-libsigc++
-glibmm
-libxml++
-cairomm
-pangomm
-atkmm
-gtkmm
-gstreamermm

@@ -1,2 +1,0 @@
-libotr
-pidgin-otr

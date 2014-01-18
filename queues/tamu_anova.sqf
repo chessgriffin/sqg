@@ -1,2 +1,0 @@
-gsl
-tamu_anova

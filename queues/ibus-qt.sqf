@@ -1,3 +1,0 @@
-pyxdg
-ibus
-ibus-qt

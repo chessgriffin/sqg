@@ -1,3 +1,0 @@
-Coin
-SoQt
-Pivy

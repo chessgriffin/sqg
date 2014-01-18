@@ -1,2 +1,0 @@
-OpenAL
-yamagi-quake2

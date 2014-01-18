@@ -1,3 +1,0 @@
-libgdiplus
-mono
-smath-studio

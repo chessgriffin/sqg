@@ -1,3 +1,0 @@
-libnet
-libnids
-dsniff

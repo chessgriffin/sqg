@@ -1,3 +1,0 @@
-tubo
-dbh
-rodent

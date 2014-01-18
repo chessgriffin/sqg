@@ -1,2 +1,0 @@
-pptp
-NetworkManager-pptp

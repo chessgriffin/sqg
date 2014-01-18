@@ -1,2 +1,0 @@
-SDL_gfx
-freedroidrpg

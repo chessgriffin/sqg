@@ -1,2 +1,0 @@
-libalkimia
-kmymoney

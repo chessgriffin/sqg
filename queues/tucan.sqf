@@ -1,3 +1,0 @@
-leptonica
-tesseract
-tucan

@@ -1,2 +1,0 @@
-LDraw_data
-ldglite

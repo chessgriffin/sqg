@@ -1,2 +1,0 @@
-nagios
-nagios-plugins

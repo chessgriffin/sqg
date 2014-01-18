@@ -1,2 +1,0 @@
-hercules
-hebe

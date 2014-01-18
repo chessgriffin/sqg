@@ -1,3 +1,0 @@
-libzen
-libmediainfo
-mediainfo

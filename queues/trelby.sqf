@@ -1,4 +1,0 @@
-BeautifulSoup
-lxml
-wxPython
-trelby

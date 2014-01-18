@@ -1,2 +1,0 @@
-ocaml
-ocaml-findlib

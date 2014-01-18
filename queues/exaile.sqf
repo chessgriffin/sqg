@@ -1,3 +1,0 @@
-mutagen
-gst-python
-exaile

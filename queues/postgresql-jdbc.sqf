@@ -1,3 +1,0 @@
-postgresql
-jdk
-postgresql-jdbc

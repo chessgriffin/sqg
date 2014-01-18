@@ -1,2 +1,0 @@
-pysetuptools
-pep8

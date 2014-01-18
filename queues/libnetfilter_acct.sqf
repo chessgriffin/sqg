@@ -1,2 +1,0 @@
-libmnl
-libnetfilter_acct

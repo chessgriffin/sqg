@@ -1,3 +1,0 @@
-apiextractor
-generatorrunner
-shiboken

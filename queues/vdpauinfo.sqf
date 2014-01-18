@@ -1,2 +1,0 @@
-libvdpau
-vdpauinfo

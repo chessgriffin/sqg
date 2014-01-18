@@ -1,3 +1,0 @@
-libdaemon
-avahi
-nss-mdns

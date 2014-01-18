@@ -1,3 +1,0 @@
-libgdiplus
-mono
-smartirc4net

@@ -1,2 +1,0 @@
-fox-toolkit
-gogglesmm

@@ -1,2 +1,0 @@
-fluidsynth
-qsynth

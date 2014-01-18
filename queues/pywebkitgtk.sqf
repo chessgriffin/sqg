@@ -1,2 +1,0 @@
-webkitgtk
-pywebkitgtk

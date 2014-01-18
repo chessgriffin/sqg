@@ -1,2 +1,0 @@
-freetds
-php-mssql

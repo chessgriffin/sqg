@@ -1,2 +1,0 @@
-jdk
-mysql-connector-java

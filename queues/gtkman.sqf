@@ -1,2 +1,0 @@
-txt2tags
-gtkman

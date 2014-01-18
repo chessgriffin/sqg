@@ -1,2 +1,0 @@
-tokyocabinet
-tokyotyrant

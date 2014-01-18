@@ -1,2 +1,0 @@
-wvstreams
-wvdial

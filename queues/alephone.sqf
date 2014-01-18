@@ -1,4 +1,0 @@
-zziplib
-speex
-lua
-alephone

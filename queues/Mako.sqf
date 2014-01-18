@@ -1,3 +1,0 @@
-pysetuptools
-MarkupSafe
-Mako

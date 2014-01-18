@@ -1,2 +1,0 @@
-libedit
-xdebug

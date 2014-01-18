@@ -1,2 +1,0 @@
-liblinebreak
-fbreader

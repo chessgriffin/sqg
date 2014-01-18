@@ -1,2 +1,0 @@
-librsync
-rdiff-backup

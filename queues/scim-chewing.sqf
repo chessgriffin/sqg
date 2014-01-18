@@ -1,2 +1,0 @@
-libchewing
-scim-chewing

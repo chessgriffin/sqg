@@ -1,3 +1,0 @@
-ocaml
-lablgtk
-unison

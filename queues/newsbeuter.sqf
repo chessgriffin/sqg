@@ -1,3 +1,0 @@
-stfl
-json-c
-newsbeuter

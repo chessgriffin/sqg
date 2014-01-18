@@ -1,3 +1,0 @@
-mpd
-libmpdclient
-mpdscribble

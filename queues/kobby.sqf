@@ -1,4 +1,0 @@
-libgsasl
-libinfinity
-libqinfinity
-kobby

@@ -1,3 +1,0 @@
-pysetuptools
-nose
-python-spidermonkey

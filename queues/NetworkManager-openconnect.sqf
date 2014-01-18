@@ -1,2 +1,0 @@
-openconnect
-NetworkManager-openconnect

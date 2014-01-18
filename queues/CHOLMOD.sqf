@@ -1,9 +1,0 @@
-metis
-blas
-lapack
-UFconfig
-COLAMD
-CCOLAMD
-CAMD
-AMD
-CHOLMOD

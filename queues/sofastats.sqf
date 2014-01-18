@@ -1,9 +1,0 @@
-webkitgtk
-pywebkitgtk
-pytz
-six
-pysetuptools
-python-dateutil
-numpy
-matplotlib
-sofastats

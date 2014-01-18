@@ -1,3 +1,0 @@
-libedit
-ghc
-haskell-editline

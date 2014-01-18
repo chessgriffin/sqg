@@ -1,4 +1,0 @@
-webkitgtk
-pywebkitgtk
-PyYAML
-rednotebook

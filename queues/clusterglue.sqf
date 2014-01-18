@@ -1,3 +1,0 @@
-libnet
-libesmtp
-clusterglue

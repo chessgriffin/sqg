@@ -1,2 +1,0 @@
-icoutils
-q4wine

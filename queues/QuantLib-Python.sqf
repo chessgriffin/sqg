@@ -1,2 +1,0 @@
-QuantLib
-QuantLib-Python

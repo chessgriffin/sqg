@@ -1,3 +1,0 @@
-pyinotify
-pysetuptools
-ninja-ide

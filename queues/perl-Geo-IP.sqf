@@ -1,2 +1,0 @@
-GeoIP
-perl-Geo-IP

@@ -1,2 +1,0 @@
-DirectFB
-qingy

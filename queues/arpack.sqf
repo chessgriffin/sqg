@@ -1,3 +1,0 @@
-blas
-lapack
-arpack

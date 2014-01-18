@@ -1,4 +1,0 @@
-libgtop
-libviper
-libpseudo
-vwm

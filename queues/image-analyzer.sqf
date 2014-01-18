@@ -1,2 +1,0 @@
-libmirage
-image-analyzer

@@ -1,3 +1,0 @@
-filechunkio
-pysetuptools
-boto

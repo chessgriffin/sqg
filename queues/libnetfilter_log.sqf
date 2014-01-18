@@ -1,2 +1,0 @@
-libnfnetlink
-libnetfilter_log

@@ -1,4 +1,0 @@
-jam
-fltk
-edelib
-ede

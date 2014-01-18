@@ -1,2 +1,0 @@
-recordmydesktop
-gtk-recordmydesktop

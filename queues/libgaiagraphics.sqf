@@ -1,3 +1,0 @@
-proj
-libgeotiff
-libgaiagraphics

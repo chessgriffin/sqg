@@ -1,2 +1,0 @@
-goocanvas
-gpredict

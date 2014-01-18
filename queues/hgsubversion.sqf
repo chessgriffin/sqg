@@ -1,2 +1,0 @@
-subvertpy
-hgsubversion

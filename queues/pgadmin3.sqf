@@ -1,3 +1,0 @@
-wxPython
-postgresql
-pgadmin3

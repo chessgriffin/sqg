@@ -1,3 +1,0 @@
-wxPython
-raptor
-amaya

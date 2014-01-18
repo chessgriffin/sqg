@@ -1,3 +1,0 @@
-libvdpau
-libva
-vdpau-video

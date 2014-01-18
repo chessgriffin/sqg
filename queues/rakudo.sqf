@@ -1,3 +1,0 @@
-parrot
-nqp
-rakudo

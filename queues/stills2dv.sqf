@@ -1,2 +1,0 @@
-libdv
-stills2dv

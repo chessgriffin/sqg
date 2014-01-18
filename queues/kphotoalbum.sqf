@@ -1,2 +1,0 @@
-kipi-plugins
-kphotoalbum

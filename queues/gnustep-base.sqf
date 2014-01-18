@@ -1,2 +1,0 @@
-gnustep-make
-gnustep-base

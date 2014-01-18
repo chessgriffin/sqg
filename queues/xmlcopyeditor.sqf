@@ -1,3 +1,0 @@
-xerces-c
-wxPython
-xmlcopyeditor

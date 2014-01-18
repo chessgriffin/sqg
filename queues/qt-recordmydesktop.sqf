@@ -1,2 +1,0 @@
-recordmydesktop
-qt-recordmydesktop

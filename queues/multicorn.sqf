@@ -1,3 +1,0 @@
-postgresql
-pysetuptools
-multicorn

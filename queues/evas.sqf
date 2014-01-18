@@ -1,3 +1,0 @@
-eina
-eet
-evas

@@ -1,3 +1,0 @@
-vala
-libgee
-pdfpc

@@ -1,3 +1,0 @@
-menu-cache
-libfm
-pcmanfm

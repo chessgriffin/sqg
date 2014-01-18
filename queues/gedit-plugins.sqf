@@ -1,4 +1,0 @@
-gtksourceview
-pygtksourceview
-gedit
-gedit-plugins

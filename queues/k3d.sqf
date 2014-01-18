@@ -1,9 +1,0 @@
-mm-common
-libsigc++
-glibmm
-cairomm
-pangomm
-atkmm
-gtkmm
-gtkglext
-k3d

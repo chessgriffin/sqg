@@ -1,2 +1,0 @@
-xmms2
-lxmusic

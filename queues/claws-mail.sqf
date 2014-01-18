@@ -1,2 +1,0 @@
-libetpan
-claws-mail

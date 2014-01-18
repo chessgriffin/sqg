@@ -1,3 +1,0 @@
-webkitgtk
-pywebkitgtk
-dissy

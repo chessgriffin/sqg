@@ -1,3 +1,0 @@
-physfs
-OpenAL
-supertux2

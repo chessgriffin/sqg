@@ -1,2 +1,0 @@
-logilab-common
-logilab-astng

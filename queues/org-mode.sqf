@@ -1,2 +1,0 @@
-jdk
-org-mode

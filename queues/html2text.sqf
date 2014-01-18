@@ -1,2 +1,0 @@
-pysetuptools
-html2text

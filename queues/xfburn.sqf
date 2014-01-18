@@ -1,3 +1,0 @@
-libisofs
-libburn
-xfburn

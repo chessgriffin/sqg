@@ -1,3 +1,0 @@
-girara
-zathura
-zathura-djvu

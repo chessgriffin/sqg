@@ -1,2 +1,0 @@
-UFconfig
-CXSparse

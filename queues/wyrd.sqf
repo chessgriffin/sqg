@@ -1,3 +1,0 @@
-remind
-ocaml
-wyrd

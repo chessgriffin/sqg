@@ -1,3 +1,0 @@
-rlog
-encfs
-cryptkeeper

@@ -1,3 +1,0 @@
-pybluez
-anyremote
-kanyremote

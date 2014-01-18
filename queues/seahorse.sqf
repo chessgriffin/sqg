@@ -1,3 +1,0 @@
-libsecret
-itstool
-seahorse

@@ -1,3 +1,0 @@
-pysetuptools
-BeautifulSoup
-periscope

@@ -1,2 +1,0 @@
-vala
-gtk-vnc

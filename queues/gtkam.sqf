@@ -1,2 +1,0 @@
-libexif-gtk
-gtkam

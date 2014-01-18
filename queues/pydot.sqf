@@ -1,3 +1,0 @@
-pyparsing
-graphviz
-pydot

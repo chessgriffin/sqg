@@ -1,3 +1,0 @@
-GeoIP
-libtorrent-rasterbar
-qbittorrent

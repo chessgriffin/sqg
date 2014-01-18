@@ -1,2 +1,0 @@
-libsynce
-librapi2

@@ -1,2 +1,0 @@
-libdbi
-libdbi-drivers

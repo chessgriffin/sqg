@@ -1,2 +1,0 @@
-xdotool
-clipit

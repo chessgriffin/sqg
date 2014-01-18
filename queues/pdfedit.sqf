@@ -1,2 +1,0 @@
-qt3
-pdfedit

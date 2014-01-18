@@ -1,2 +1,0 @@
-lxsession
-lxsession-edit

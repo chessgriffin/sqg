@@ -1,2 +1,0 @@
-ptlib
-opal

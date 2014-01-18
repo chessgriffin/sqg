@@ -1,3 +1,0 @@
-ptlib
-opal
-ekiga

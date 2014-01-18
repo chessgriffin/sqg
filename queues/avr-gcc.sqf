@@ -1,2 +1,0 @@
-avr-binutils
-avr-gcc

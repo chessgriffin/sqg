@@ -1,2 +1,0 @@
-xapian-core
-xapian-bindings

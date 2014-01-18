@@ -1,2 +1,0 @@
-fcitx
-kcm-fcitx

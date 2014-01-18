@@ -1,3 +1,0 @@
-portaudio
-espeak
-espeakup

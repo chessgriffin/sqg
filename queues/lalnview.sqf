@@ -1,3 +1,0 @@
-fltk
-PDFlib-Lite
-lalnview

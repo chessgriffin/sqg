@@ -1,3 +1,0 @@
-wxPython
-cryptopp
-aMule

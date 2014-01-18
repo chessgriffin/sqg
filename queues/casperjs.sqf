@@ -1,3 +1,0 @@
-chrpath
-phantomjs
-casperjs

@@ -1,2 +1,0 @@
-qtermwidget
-qterminal

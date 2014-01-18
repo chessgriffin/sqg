@@ -1,2 +1,0 @@
-libsigsegv
-texlive

@@ -1,2 +1,0 @@
-fltk
-alsa-tools

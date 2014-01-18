@@ -1,4 +1,0 @@
-eina
-eet
-evas
-ecore

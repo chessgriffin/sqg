@@ -1,3 +1,0 @@
-libdnet
-daq
-snort

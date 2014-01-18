@@ -1,2 +1,0 @@
-perl-TimeDate
-perl-MailTools
